@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Neste projeto de formulário de matrícula, foram exploradas a criação de formulários em HTML, abordando campos de entrada de texto, data, seleção, text area e envio de arquivos. Foram criados inputs customizados como radio e checkbox e campo de drop para arquivos anexo.
+Neste projeto de formulário de matrícula, foram exploradas a criação de formulários em HTML, abordando campos de entrada de texto, data, seleção, text area e envio de arquivos. Foram criados inputs customizados como radio e checkbox.
 
 ## 🔖 Layout
 
