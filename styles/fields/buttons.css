@@ -4,11 +4,12 @@ button {
     color: var(--text-highlight);
     padding: .75rem 1.5rem;
     border-radius: .5rem;
-    cursor: pointer;
+    cursor: pointer;    
 
     &.btn-primary {
         color: white;
         background-color: #E43A12;
+        margin-right: auto;
 
         &:hover,
         &:focus {
@@ -17,9 +18,9 @@ button {
     }
 
     &.btn-secondary {
-        margin-left: auto;
+        
         border: 1px solid var(--text-highlight);
-
+        margin-left: auto;
         &:hover,
         &:focus {
             color: #E43A12;
